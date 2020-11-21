@@ -40,12 +40,17 @@ Code for training and evaluating the model- Matroid_Test.ipynb
 Task5
 Results/metrics (for all the classes and overall) obtained for the
 trained model
+
 Training Accuracy of model: 98.44% on 25 epochs
 Validation Accuracy of model: 92%
+
 Total number of data used for the final evaluation after training the model=7268
 Recall: 0.949
+
 Precision: 0.903
+
 f1_score: 0.925
+
 Accuracy: 92.41%
 Below is the confusion matrix on the test data
 
